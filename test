@@ -2,4 +2,6 @@ test
 upload succes
 ok
 sipp
-test gitg
+test gitg > cant push
+lets test git-gui
+
